@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hooks-todoapp/static/css/main.a8f52c40.chunk.css",
-    "main.js": "/react-hooks-todoapp/static/js/main.2681e6db.chunk.js",
-    "main.js.map": "/react-hooks-todoapp/static/js/main.2681e6db.chunk.js.map",
-    "runtime-main.js": "/react-hooks-todoapp/static/js/runtime-main.c491522d.js",
-    "runtime-main.js.map": "/react-hooks-todoapp/static/js/runtime-main.c491522d.js.map",
-    "static/js/2.1b28494c.chunk.js": "/react-hooks-todoapp/static/js/2.1b28494c.chunk.js",
-    "static/js/2.1b28494c.chunk.js.map": "/react-hooks-todoapp/static/js/2.1b28494c.chunk.js.map",
-    "index.html": "/react-hooks-todoapp/index.html",
-    "precache-manifest.e6613e9cde5d42a3bcf5b8843da0dc52.js": "/react-hooks-todoapp/precache-manifest.e6613e9cde5d42a3bcf5b8843da0dc52.js",
-    "service-worker.js": "/react-hooks-todoapp/service-worker.js",
-    "static/css/main.a8f52c40.chunk.css.map": "/react-hooks-todoapp/static/css/main.a8f52c40.chunk.css.map",
-    "static/js/2.1b28494c.chunk.js.LICENSE.txt": "/react-hooks-todoapp/static/js/2.1b28494c.chunk.js.LICENSE.txt"
+    "main.css": "/cap-antonio/react-hooks-todoapp.git/static/css/main.a8f52c40.chunk.css",
+    "main.js": "/cap-antonio/react-hooks-todoapp.git/static/js/main.c075d5c9.chunk.js",
+    "main.js.map": "/cap-antonio/react-hooks-todoapp.git/static/js/main.c075d5c9.chunk.js.map",
+    "runtime-main.js": "/cap-antonio/react-hooks-todoapp.git/static/js/runtime-main.524c7c77.js",
+    "runtime-main.js.map": "/cap-antonio/react-hooks-todoapp.git/static/js/runtime-main.524c7c77.js.map",
+    "static/js/2.1b28494c.chunk.js": "/cap-antonio/react-hooks-todoapp.git/static/js/2.1b28494c.chunk.js",
+    "static/js/2.1b28494c.chunk.js.map": "/cap-antonio/react-hooks-todoapp.git/static/js/2.1b28494c.chunk.js.map",
+    "index.html": "/cap-antonio/react-hooks-todoapp.git/index.html",
+    "precache-manifest.16dca70055b33153d48547eaef965aa1.js": "/cap-antonio/react-hooks-todoapp.git/precache-manifest.16dca70055b33153d48547eaef965aa1.js",
+    "service-worker.js": "/cap-antonio/react-hooks-todoapp.git/service-worker.js",
+    "static/css/main.a8f52c40.chunk.css.map": "/cap-antonio/react-hooks-todoapp.git/static/css/main.a8f52c40.chunk.css.map",
+    "static/js/2.1b28494c.chunk.js.LICENSE.txt": "/cap-antonio/react-hooks-todoapp.git/static/js/2.1b28494c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c491522d.js",
+    "static/js/runtime-main.524c7c77.js",
     "static/js/2.1b28494c.chunk.js",
     "static/css/main.a8f52c40.chunk.css",
-    "static/js/main.2681e6db.chunk.js"
+    "static/js/main.c075d5c9.chunk.js"
   ]
 }
