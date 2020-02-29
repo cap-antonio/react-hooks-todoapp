@@ -10,10 +10,8 @@ const App = () => {
 
   // state
   const [todos, setTodos] = useState([
-    { label: 'Make awesome apps', important: false, done: false, id: 1 },
-    { label: 'Do your best', important: false, done: false, id: 2 },
-    { label: 'Go on', important: false, done: false, id: 3 },
-    { label: 'Ok', important: false, done: false, id: 4 }
+    { label: 'Welcome in Todo app', important: false, done: false, id: 1 },
+    { label: 'Enjoy creating your first todo', important: false, done: false, id: 2 },
   ])
   const [searchValue, setSearchValue] = useState("")
   const [filterOption, setFilterOption] = useState("all")

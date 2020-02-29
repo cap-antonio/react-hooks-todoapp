@@ -1,8 +1,8 @@
 {
   "name": "todoapp",
-  "homepage": "https://github.com/cap-antonio/react-hooks-todoapp.git",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cap-antonio.github.io/react-hooks-todoapp/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build" 
   },
   "eslintConfig": {
     "extends": "react-app"
